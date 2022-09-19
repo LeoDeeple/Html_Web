@@ -1,0 +1,49 @@
+p.special{
+    color: black;
+}
+li.special{
+    font-weight: bold;
+}
+li em{
+    font-weight: bold;
+    color: purple;
+}
+a:hover{
+    color: cyan;
+}
+#selectid{
+    color: yellow;
+    background-color: black;
+    padding: 10px;
+}
+
+.specialll{
+    text-shadow: 3px 4px 4px black, 3px 4px 5px red;
+    text-align: center;
+    font-size:150%
+    /* font-weight:800; */
+    /* text-transform: uppercase; */
+    
+    
+}
+
+#speciall{
+    text-transform: capitalize;
+    font-size: large;
+    text-decoration: line-through;
+    line-height: 3;
+    word-spacing: 100;
+    text-indent: 12;
+}
+
+
+
+
+
+
+
+
+
+
+
+
