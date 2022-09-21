@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    /* background-color: cyan; */
+}
+.main{
+    width: 100%;
+    background: url(a.jpg);
+    height: 150vh;
+    background-size: cover;
+    background-position: center;
+}
+h1{
+    color: orange;
+    font-family: cursive;
+    font-size: 45px;
+}
+
+.table{
+    float: right;
+    margin-right: 75px;
+}
+table,tr,th,td{
+    /* border: 2px solid black; */
+    border-collapse: collapse;
+    padding: 10px;
+    border: 1px solid orange;
+    border-collapse: collapse;
+    font-size: 30px;
+    color: white;
+    margin-top: 180px;
+    margin-right: 200px;
+    font-family: cursive;
+    
+}
+th{
+    background-color: rgb(197, 220, 20);
+    color: black;
+}
+td{
+    background-color: coral;
+    color: black;
+}
+.videos p{
+    color: white;
+    font-size: 25px;
+    margin-top: 35px;
+    font-family: cursive;
+    font-size: 35px;
+}
