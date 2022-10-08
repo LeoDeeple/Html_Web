@@ -1,16 +1,17 @@
 body{
-    background-image: url(a.jpg);
+    background-image: url(https://wallpapers-hub.art/wallpaper-images/340452.png);
     background-position: center;
     background-size: cover;
     height: 100vh;
 }
 .container{
     margin:auto;
+    /* height: 10px; */
 }
 h1{
     font-size: 50px;
     font-family: Arial, Helvetica, sans-serif;
-    
+    color: orange;
 }
 .calc{
     height: 370px;

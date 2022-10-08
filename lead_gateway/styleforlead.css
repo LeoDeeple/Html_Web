@@ -1,0 +1,40 @@
+body{
+    background-image: url(https://wallpapers-hub.art/wallpaper-images/340452.png);
+}
+h1{
+    color:orange;
+    font-family: cursive;
+    font-size:40px;
+    margin-left: 690px;
+    margin-top: 15px;
+}
+h2{
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration:underline;
+    color: orange;
+}
+hr{
+    color: orange;
+    height: 1.8px;
+    background: orange;
+    margin-top: 9.5px;
+}
+
+
+/* .target{
+    animation: flowing 11s linear infinite;
+    transform: translateX(100%);
+}
+@keyframes flowing {
+    100% {
+        transform: translateX(-100%);
+    }
+} */
