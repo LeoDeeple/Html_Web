@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+	background:url(a.jpg);
+	background-position:center;
+	background-size:cover;
+	height:100vh;
+}
+.heading{
+	display:flex;
+}
+.smiley{
+	color:orange;
+	padding-left:10px;
+	padding-top:3px;
+}
+.anchors{
+	padding-top:25px;
+	padding-left:500px;
+}
+.edit{
+	color:orange;
+	padding:10px;
+	padding-left:30px;
+	text-decoration:none;
+	font-weight:bold;
+	
+}  
+.travelon{
+	color:white;
+	padding-left:500px;
+	padding-top:150px;
+	font-size:55px;
+	font-family:cursive;
+}
+.buttons{
+	padding-left:576px;
+	padding-top:5px;
+}
+.watch{
+	background:transparent;
+	border:1px solid white;
+	padding:7px;
+}
+.buttons a{
+	color:white;
+	font-weight:bold;
+	text-decoration:none;
+}
+.buttons a:hover{
+	color:black;
+	background:orange;
+}
+.heading{
+	
+}
